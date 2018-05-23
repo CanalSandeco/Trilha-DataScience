@@ -38,4 +38,5 @@
 - http://www.skillacademy.com
 - http://www.mruniversity.com
 - www.alison.com
-- Canal Sandeco no Youtube!(é claro!!)
+- https://www.datacamp.com/
+- [Canal Sandeco no Youtube!(é claro!!)](https://www.youtube.com/channel/UCIQne9yW4TvCCNYQLszfXCQ)
